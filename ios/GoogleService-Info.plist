@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>931509373457-8sp0o7vj9g6r8fuettg9f3a4pb8bnjd9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.931509373457-8sp0o7vj9g6r8fuettg9f3a4pb8bnjd9</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>931509373457-i2jnmrij5itls5imaj09q9u565v868i0.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDDl7q-EQfIFBZladMFnzag1xHacKbTWmk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>931509373457</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.vero.driver</string>
+	<key>PROJECT_ID</key>
+	<string>vero-a62a5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vero-a62a5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:931509373457:ios:5d703592e195cc0a047fb0</string>
+	<key>DATABASE_URL</key>
+	<string>https://vero-a62a5.firebaseio.com</string>
+</dict>
+</plist>
